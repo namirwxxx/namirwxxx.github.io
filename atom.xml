@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://namirwxxx.github.io/</id>
     <title>酆南春的故事们</title>
-    <updated>2019-08-09T12:03:09.134Z</updated>
+    <updated>2019-08-10T09:59:12.171Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://namirwxxx.github.io/"/>
     <link rel="self" href="https://namirwxxx.github.io//atom.xml"/>
@@ -10,6 +10,24 @@
     <logo>https://namirwxxx.github.io//images/avatar.png</logo>
     <icon>https://namirwxxx.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, 酆南春的故事们</rights>
+    <entry>
+        <title type="html"><![CDATA[#债#大纲]]></title>
+        <id>https://namirwxxx.github.io//post/zhai-da-gang</id>
+        <link href="https://namirwxxx.github.io//post/zhai-da-gang">
+        </link>
+        <updated>2019-08-10T09:10:52.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="粗纲">粗纲</h1>
+<blockquote>
+<p>一个普通平民家的女儿，在乱世生存是很困难的，尤其在母亲是个寡妇的情况下。即使家里面是做些正经营生的，也仍然是如此的。<br>
+付丹青就是这样的女孩。但命运的奇妙就在于此。<br>
+在一次意外的车祸中，付丹青与朝廷要员太尉曹嵩之子曹操相遇。<br>
+就此，两人纠葛缠绵的一生开始了……</p>
+</blockquote>
+<h1 id="设定集">设定集</h1>
+<h2 id="人物设定">人物设定</h2>
+<p>付丹青：女主，穿越者，穿越前是政府职员</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#债# 第一章]]></title>
         <id>https://namirwxxx.github.io//post/zhai-di-yi-zhang</id>
